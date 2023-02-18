@@ -1,0 +1,15 @@
+[resources.naif0012]
+filename = "naif0012.tls"
+url = "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls"
+description = "current default leap second kernel"
+tags = ["naif", "kernel", "lsk"]
+
+[resources.de430]
+filename = "de430"
+url = "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de430.bsp"
+tags = ["naif", "kernel", "spk"]
+
+[resources.de440]
+filename = "de440"
+url = "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440.bsp"
+tags = ["naif", "kernel", "spk"]
